@@ -3,7 +3,7 @@
 A single-page portfolio website built with HTML, CSS and JavaScript by Ruhani.
 
 **Live site:** https://ruhani.niat.tech
-**Resume:** resume.pdf
+**Resume:** [View My Resume](./resume.pdf)
 
 ## What's inside
 - About, skills, education and projects sections
